@@ -836,7 +836,6 @@
 .2ortv.com
 .2poi.jp
 .2proxy.de
-.2proxy.pw
 .2qnailsspa.com
 .2shared.com
 .2waky.com
@@ -1001,6 +1000,7 @@
 .388285.com
 .38850000.com
 .38850004.com
+.38850011.com
 .38850022.com
 .38850033.com
 .38850055.com
@@ -1204,7 +1204,6 @@
 .5141.mmavday.com
 .51499.com
 .515.dynamicdns.biz
-.5157002.com
 .5157005.com
 .51570066.com
 .5157008.com
@@ -1555,6 +1554,7 @@
 .6h089.com
 .6hcc.com
 .6hch.com
+.6hk02.com
 .6i7mwo7.x.incapdns.net
 .6j6.top
 .6park.com
@@ -1606,7 +1606,6 @@
 .732bm.com
 .733bm.com
 .734.com
-.7345345.com
 .734bm.com
 .735bm.com
 .736.slyip.net
@@ -1992,6 +1991,7 @@
 .964.net
 .9646378.com
 .96700sc.com
+.9685.net
 .9685y.com
 .9691vip.com
 .9699888.com
@@ -1999,14 +1999,12 @@
 .96tang.site
 .96tang.xyz
 .96vpn.com
-.96xae.com
 .971678.com
 .973.ellakoon.com
 .97365.com
 .97555vip.com
 .977ai.com
 .978191.com
-.98.effers.com
 .98198.com
 .98198i.com
 .98198v.com
@@ -2299,6 +2297,7 @@
 .aceros-de-hispania.com
 .acetop.com
 .acevpn.com
+.acfun.tv
 .acfxcn.com
 .acg-moe.com
 .acg.ci
@@ -3472,6 +3471,7 @@
 .asiatimes.com
 .asiatoday.us
 .asiavpn.net
+.asiaxcom.com
 .ask.com
 .askasu.idv.tw
 .askit.kone.com
@@ -4216,6 +4216,7 @@
 .bd615.com
 .bd625.com
 .bd739.com
+.bd781.com
 .bd790.com
 .bd835.com
 .bd935.com
@@ -4384,7 +4385,6 @@
 .bet888.us
 .bet9477.com
 .beta.character.ai
-.beta.osmobot.com
 .beta.usejump.com
 .betaa58.com
 .betabionics.com
@@ -6659,6 +6659,7 @@
 .cleansite.info
 .cleansite.us
 .cleansolutions.mx
+.clearasil.com
 .clearasil.us
 .clearest.com
 .clearharmony.net
@@ -6750,7 +6751,6 @@
 .clubpremier.com
 .clubthaichix.com
 .clubveronicaavluv.com
-.clubx.org
 .clyp.it
 .cm.spacetechnology.net
 .cm.uk.to
@@ -6925,7 +6925,6 @@
 .codepen.io
 .codeplex.com
 .codepush.azurewebsites.net
-.coder.si
 .codernism.com
 .codeshare.io
 .codeskulptor.org
@@ -7170,6 +7169,7 @@
 .cpc.com.tw
 .cph.org
 .cphualientour.weebly.com
+.cpim.org
 .cpj.org
 .cpjustice.org
 .cpk04.com
@@ -8110,6 +8110,7 @@
 .daveproxy.co.uk
 .davesesl.com
 .david-kilgour.com
+.davidhua.net
 .davidrevoy.com
 .davila.com.ve
 .davpk.com
@@ -8906,7 +8907,6 @@
 .dorcel.com
 .dorcelclub.com
 .dorceltv.com
-.doridro.com
 .doritos.com.tw
 .dorjeshugden.com
 .dorkly.com
@@ -9983,6 +9983,7 @@
 .exploader.net
 .expo-peru.com
 .expo.com
+.expofrig.ro
 .expofutures.com
 .express-links.com
 .express-vpn-links.com
@@ -11441,7 +11442,6 @@
 .g0v.tw
 .g1.nytimg.com
 .g2.cctvgeo.akadns.net
-.g2.twimg.com
 .g5.slyip.com
 .g6hentai.com
 .g818city.com
@@ -11735,6 +11735,7 @@
 .geti2p.net
 .getinto.strikingly.com
 .getipintel.com
+.getipintel.net
 .getiton.com
 .getjetso.com
 .getjump.org
@@ -11786,6 +11787,7 @@
 .gfbv.de
 .gfgold.com.hk
 .gfkari.blog.jp
+.gfpts.com
 .gfrevenge.com
 .gfsale.com
 .gfsoso.com
@@ -12579,10 +12581,8 @@
 .gta777.net
 .gtabadass.com
 .gtadmin.ddnsking.com
-.gtdb.to
 .gteman.com
 .gtja.com.hk
-.gtkforums.com
 .gtloli.com
 .gtloli.gay
 .gtplanet.net
@@ -15301,6 +15301,7 @@
 .jobnewera.wordpress.com
 .joboja2.b29c58y.com
 .jobs.canexchange.org
+.jobs.nytco.com
 .jobso.tv
 .jobtalk.jp
 .jochgvofd.a0001.net
@@ -16020,6 +16021,7 @@
 .kwd.blog.jp
 .kwfq.tk
 .kwok7.com
+.kwokwahtyre.com
 .kwongwah.com.my
 .kx.com.sg
 .kxlatv.com
@@ -17151,6 +17153,7 @@
 .mahooq.com
 .maicloud.io
 .maicloud.me
+.maicloud.vip
 .maiio.net
 .maikou.com
 .mail-archive.com
@@ -17180,7 +17183,6 @@
 .mail.nyxus.com
 .mail.osorhan.com
 .mail.pon.com
-.mail.prentvorur.is
 .mail.ru
 .mail.sji.edu.sg
 .mail.swatfame.com
@@ -18564,7 +18566,6 @@
 .myyogaworks.com
 .myyoutube.com
 .myz.info
-.mzc23.com
 .mzfast.live
 .mzl.la
 .mzwxzz.com
@@ -18617,6 +18618,7 @@
 .naluone-56.com
 .naluone-av.com
 .naluone.net
+.namazu.ro
 .nambuccaguardian.com.au
 .name.com
 .namethatpornstar.com
@@ -19461,7 +19463,6 @@
 .nxpay.com
 .ny.stgloballink.com
 .ny.visiontimes.com
-.ny66.cc
 .nya.one
 .nyaa.eu
 .nyaa.si
@@ -19484,7 +19485,6 @@
 .nylonstockingsonline.com
 .nymphdate.com
 .nyoutube.com
-.nyp.st
 .nypost.com
 .nyshalong.com
 .nyt.com
@@ -19558,7 +19558,6 @@
 .oberpfalznetz.de
 .objectif-tibet.org
 .objects.dreamhost.com
-.objmtv.site
 .oblong.com
 .oblongseller.com
 .obmem.com
@@ -19854,6 +19853,7 @@
 .opentech.fund
 .opentechfund.org
 .openvpn.com
+.openvpn.ias.edu
 .openvpn.net
 .openvpn.org
 .openvpn.se
@@ -20085,6 +20085,7 @@
 .paimon.moe
 .paincompanion.com
 .paipaitxt.com
+.pakasak.com
 .paknews.es
 .palacemoon.com
 .palden-dharma-tare.de
@@ -20689,6 +20690,7 @@
 .pmatehunter.com
 .pmates.com
 .pmatteoricci.it
+.pmixins.com
 .pmli.it
 .pmo.gov.sg
 .pmonradio.nic.in
@@ -21555,6 +21557,7 @@
 .quitccp.net
 .quitccp.org
 .quiz.directory
+.quizknock.com
 .qukun8.xyz
 .qulit.ca
 .qun.col.pw
@@ -21818,7 +21821,6 @@
 .recursiva.cl
 .red-dragonrising.com
 .red-lang.org
-.red.org
 .red5.co.uk
 .redamateurtube.com
 .redants.sg
@@ -22264,6 +22266,7 @@
 .rubixfx.com
 .ruby.com
 .rubyfortune.com
+.rudowicz.pl
 .rue89.com
 .ruhotgirls.com
 .rui1688.com
@@ -22591,7 +22594,6 @@
 .sceadu.blog.shinobi.jp
 .schaadstoff.ch
 .schalk.com.br
-.schaumburger-zeitung.de
 .schedule.ceno.life
 .schelley.co
 .schema.org
@@ -23029,6 +23031,7 @@
 .shangwaiwang.com
 .shaogood.com
 .shaoshuren.org
+.shap2zj.zpn.im
 .shapeservices.com
 .shapeshift.io
 .share-tube.eu
@@ -23128,6 +23131,8 @@
 .shop.cwbook.com.tw
 .shop.easymall.com.tw
 .shop.fcbayern.de
+.shop.geekjack.net
+.shop.hololivepro.com
 .shop.ne-sense.com
 .shop.netgate.com
 .shop2000.com.tw
@@ -25136,7 +25141,6 @@
 .tiandixing.org
 .tianhuaculture.net
 .tianhuayuan.com
-.tianhui.org.tw
 .tianjing.org
 .tianlawoffice.com
 .tianmei.la
@@ -25665,6 +25669,7 @@
 .toythieves.com
 .toytractorshow.com
 .toyvpn.com
+.tp-link.com.cn
 .tp.8pen.xyz
 .tparents.org
 .tpcdct.org
@@ -26897,7 +26902,6 @@
 .veja.com.br
 .vel.velikiyustyug.ru
 .velaciela.ms
-.velase.com
 .velkaepocha.cz
 .velkaepocha.sk
 .velocity.net
@@ -27558,7 +27562,6 @@
 .w3668.com
 .w3p.la
 .w3schools.com
-.w3z5q8a6.stackpathcdn.com
 .w52040.com
 .w6532.com
 .w678678.com
@@ -27629,7 +27632,6 @@
 .wandu.pw
 .wang.biz
 .wangafu.net
-.wangchengxi.com
 .wangjinbo.org
 .wanglixiong.com
 .wango.org
@@ -27727,7 +27729,6 @@
 .wc6q.com
 .wcdtup.com
 .wchonline.com
-.wcloud.hk
 .wcnc.com
 .wd.bible
 .wda.gov.tw
@@ -28201,7 +28202,6 @@
 .wisegeek.com
 .wisevid.com
 .wistia.com
-.wit-gelekruisvlaamsbrabant.be
 .wit.im
 .withgoogle.com
 .withkang.org
@@ -28288,6 +28288,7 @@
 .wonder-product.com
 .wonder-wall.com
 .wonderproxy.com
+.wonderstic.kr
 .woodhome.us
 .woodmancastingx.com
 .woodrocket.com
@@ -29561,6 +29562,7 @@
 .yzlhb607.com
 .yzz0090.wix.org
 .yzzk.com
+.z-lib.id
 .z-lib.io
 .z-lib.org
 .z-unity.com.tw
