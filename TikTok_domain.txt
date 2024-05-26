@@ -3,7 +3,6 @@ lf16-pkgcdn.pitaya-clientai.com
 p16-tiktokcdn-com.akamaized.net
 .bytedapm.com
 .bytegecko-i18n.com
-.bytegecko.com
 .byteoversea.com
 .capcut.com
 .ibytedtos.com
@@ -22,3 +21,4 @@ p16-tiktokcdn-com.akamaized.net
 .tiktokd.org
 .tiktokmusic.app
 .tiktokv.com
+.tiktokv.us
