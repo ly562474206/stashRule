@@ -1,2 +1,0 @@
-DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,spotify.com
